@@ -1,4 +1,4 @@
-name: Release and deploy my golang application
+name: Release and deploy my golangs application
 
 on:
   push:
