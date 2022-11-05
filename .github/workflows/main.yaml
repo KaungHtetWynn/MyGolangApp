@@ -43,7 +43,7 @@ jobs:
                 "type": "header",
                 "text": {
                   "type": "plain_text",
-                  "text": "DipSA55 CI/CD Workshop Submission",
+                  "text": "DipSA55 CI/CD Assignment Submission",
                   "emoji": true
                 }
               },
